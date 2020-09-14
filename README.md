@@ -36,7 +36,7 @@ In the first phase of the project, relying on Ethererum's mature smart contract 
 
 <div align="center">
   <a href="https://www.yFarming.finance"> <img width="850px" height="auto" 
-  src="yFarm-logic.png"></a>
+  src="yFarming-logic.png"></a>
    <p> Figure 1: Figure of the relationship between yFarming modules </p>
 </div>
 
